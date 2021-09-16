@@ -1,2 +1,2 @@
 # Capstone-Project-Netflix-Data
-Codecademy Capstone Project to visualize Netflix data using Python.
+Capstone Project to visualize Netflix stock data using Python.
